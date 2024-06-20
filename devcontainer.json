@@ -23,7 +23,8 @@
       "extensions": [
         "donjayamanne.githistory",
         "GitLab.gitlab-workflow",
-        "esbenp.prettier-vscode"
+        "esbenp.prettier-vscode",
+		"njpwerner.autodocstring"
       ]
     }
   },
